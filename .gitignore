@@ -1,5 +1,6 @@
-kvant.aux
-kvant.fdb_latexmk
-kvant.fls
-kvant.log
-kvant.synctex.gz
+kvant.*
+!kvant.tex
+!kvant.pdf
+title.*
+!title.tex
+!title.pdf
