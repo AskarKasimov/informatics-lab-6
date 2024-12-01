@@ -4,3 +4,6 @@ kvant.*
 title.*
 !title.tex
 !title.pdf
+main.*
+!main.tex
+!main.pdf
